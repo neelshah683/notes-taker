@@ -6,7 +6,7 @@ function Header() {
     <header>
         <h2>
           <HighlightIcon />
-          ThoughtStream
+           ThoughtStream
         </h2>
     </header>
   );
